@@ -1,2 +1,2 @@
 # navbar
-Going to built a small responsive website using concepts if navbar in HTML and CSS.
+Going to built a small website using concepts of navbar in HTML and CSS.
